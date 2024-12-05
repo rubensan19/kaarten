@@ -1,664 +1,343 @@
-﻿gemeentCode;gemeenteNaam;veiligheidsRegioCode;veiligheidsRegioNaam;provincieCode;Provincie;Land;;;
-GM1979;Eemsdelta;VR01;Groningen                                         ;PV20;Groningen;NL;;;
-GM1979;Eemsdelta;VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM0014;Groningen (gemeente);VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM0014;Groningen (gemeente);VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM1966;Het Hogeland;VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM1966;Het Hogeland;VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM1952;Midden-Groningen;VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM1952;Midden-Groningen;VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM1895;Oldambt;VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM1895;Oldambt;VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM0765;Pekela;VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM0765;Pekela;VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM0037;Stadskanaal;VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM0037;Stadskanaal;VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM0047;Veendam;VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM0047;Veendam;VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM1969;Westerkwartier;VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM1969;Westerkwartier;VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM1950;Westerwolde;VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM1950;Westerwolde;VR01;Groningen                                         ;PV20;Groningen ;NL;;;
-GM0059;Achtkarspelen;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0059;Achtkarspelen;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0060;Ameland;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM1891;Dantumadiel;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM1891;Dantumadiel;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM1940;De Fryske Marren;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM1940;De Fryske Marren;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0072;Harlingen;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0072;Harlingen;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0074;Heerenveen;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0074;Heerenveen;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0080;Leeuwarden;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0080;Leeuwarden;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM1970;Noardeast-Fryslân;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM1970;Noardeast-Fryslân;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0085;Ooststellingwerf;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0085;Ooststellingwerf;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0086;Opsterland;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0086;Opsterland;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0088;Schiermonnikoog;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0090;Smallingerland;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0090;Smallingerland;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM1900;Súdwest-Fryslân;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM1900;Súdwest-Fryslân;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0093;Terschelling;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0737;Tytsjerksteradiel;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0737;Tytsjerksteradiel;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0096;Vlieland;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM1949;Waadhoeke;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM1949;Waadhoeke;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0098;Weststellingwerf;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM0098;Weststellingwerf;VR02;Fryslân                                           ;PV21;Friesland;NL;;;
-GM1680;Aa en Hunze;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM1680;Aa en Hunze;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM0106;Assen;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM0106;Assen;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM1681;Borger-Odoorn;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM1681;Borger-Odoorn;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM0109;Coevorden;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM0109;Coevorden;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM1690;De Wolden;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM1690;De Wolden;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM0114;Emmen;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM0114;Emmen;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM0118;Hoogeveen;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM0118;Hoogeveen;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM0119;Meppel;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM0119;Meppel;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM1731;Midden-Drenthe;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM1731;Midden-Drenthe;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM1699;Noordenveld;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM1699;Noordenveld;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM1730;Tynaarlo;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM1730;Tynaarlo;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM1701;Westerveld;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM1701;Westerveld;VR03;Drenthe                                           ;PV22;Drenthe;NL;;;
-GM0141;Almelo;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0141;Almelo;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0147;Borne;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0147;Borne;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0148;Dalfsen;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM0148;Dalfsen;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM0150;Deventer;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM0150;Deventer;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM1774;Dinkelland;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM1774;Dinkelland;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0153;Enschede;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0153;Enschede;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0158;Haaksbergen;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0158;Haaksbergen;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0160;Hardenberg;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM0160;Hardenberg;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM0163;Hellendoorn;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0163;Hellendoorn;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0164;Hengelo (O.);VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0164;Hengelo (O.);VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM1735;Hof van Twente;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM1735;Hof van Twente;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0166;Kampen;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM0166;Kampen;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM0168;Losser;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0168;Losser;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0173;Oldenzaal;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0173;Oldenzaal;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM1773;Olst-Wijhe;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM1773;Olst-Wijhe;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM0175;Ommen;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM0175;Ommen;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM0177;Raalte;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM0177;Raalte;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM1742;Rijssen-Holten;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM1742;Rijssen-Holten;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0180;Staphorst;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM0180;Staphorst;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM1708;Steenwijkerland;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM1708;Steenwijkerland;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM0183;Tubbergen;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0183;Tubbergen;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM1700;Twenterand;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM1700;Twenterand;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0189;Wierden;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM0189;Wierden;VR05;Twente                                            ;PV23;Overijssel;NL;;;
-GM1896;Zwartewaterland;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM1896;Zwartewaterland;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM0193;Zwolle;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM0193;Zwolle;VR04;IJsselland                                        ;PV23;Overijssel;NL;;;
-GM0034;Almere;VR25;Flevoland                                         ;PV24;Flevoland;NL;;;
-GM0034;Almere;VR25;Flevoland                                         ;PV24;Flevoland;NL;;;
-GM0303;Dronten;VR25;Flevoland                                         ;PV24;Flevoland;NL;;;
-GM0303;Dronten;VR25;Flevoland                                         ;PV24;Flevoland;NL;;;
-GM0995;Lelystad;VR25;Flevoland                                         ;PV24;Flevoland;NL;;;
-GM0995;Lelystad;VR25;Flevoland                                         ;PV24;Flevoland;NL;;;
-GM0171;Noordoostpolder;VR25;Flevoland                                         ;PV24;Flevoland;NL;;;
-GM0171;Noordoostpolder;VR25;Flevoland                                         ;PV24;Flevoland;NL;;;
-GM0184;Urk;VR25;Flevoland                                         ;PV24;Flevoland;NL;;;
-GM0184;Urk;VR25;Flevoland                                         ;PV24;Flevoland;NL;;;
-GM0050;Zeewolde;VR25;Flevoland                                         ;PV24;Flevoland;NL;;;
-GM0050;Zeewolde;VR25;Flevoland                                         ;PV24;Flevoland;NL;;;
-GM0197;Aalten;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0197;Aalten;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0200;Apeldoorn;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0200;Apeldoorn;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0202;Arnhem;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0202;Arnhem;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0203;Barneveld;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0203;Barneveld;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM1945;Berg en Dal;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM1945;Berg en Dal;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM1859;Berkelland;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM1859;Berkelland;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0209;Beuningen;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0209;Beuningen;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM1876;Bronckhorst;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM1876;Bronckhorst;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0213;Brummen;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0213;Brummen;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0214;Buren;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0214;Buren;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0216;Culemborg;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0216;Culemborg;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0221;Doesburg;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0221;Doesburg;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0222;Doetinchem;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0222;Doetinchem;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0225;Druten;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0225;Druten;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0226;Duiven;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0226;Duiven;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0228;Ede;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0228;Ede;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0230;Elburg;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0230;Elburg;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0232;Epe;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0232;Epe;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0233;Ermelo;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0233;Ermelo;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0243;Harderwijk;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0243;Harderwijk;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0244;Hattem;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0244;Hattem;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0246;Heerde;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0246;Heerde;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0252;Heumen;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0252;Heumen;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM1705;Lingewaard;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM1705;Lingewaard;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0262;Lochem;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0262;Lochem;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0263;Maasdriel;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0263;Maasdriel;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM1955;Montferland;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM1955;Montferland;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM1740;Neder-Betuwe;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0267;Nijkerk;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0267;Nijkerk;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0268;Nijmegen;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0268;Nijmegen;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0302;Nunspeet;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0302;Nunspeet;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0269;Oldebroek;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM1586;Oost Gelre;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM1586;Oost Gelre;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM1509;Oude IJsselstreek;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM1509;Oude IJsselstreek;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM1734;Overbetuwe;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM1734;Overbetuwe;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0273;Putten;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0273;Putten;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0274;Renkum;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0274;Renkum;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0275;Rheden;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0275;Rheden;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0277;Rozendaal;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0279;Scherpenzeel;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0279;Scherpenzeel;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0281;Tiel;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0281;Tiel;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0285;Voorst;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0285;Voorst;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0289;Wageningen;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0289;Wageningen;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM1960;West Betuwe;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM1960;West Betuwe;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0668;West Maas en Waal;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0668;West Maas en Waal;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0293;Westervoort;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0293;Westervoort;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0296;Wijchen;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0296;Wijchen;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0294;Winterswijk;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0294;Winterswijk;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0297;Zaltbommel;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0297;Zaltbommel;VR08;Gelderland-Zuid                                   ;PV25;Gelderland;NL;;;
-GM0299;Zevenaar;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0299;Zevenaar;VR07;Gelderland-Midden                                 ;PV25;Gelderland;NL;;;
-GM0301;Zutphen;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0301;Zutphen;VR06;Noord- en Oost-Gelderland                         ;PV25;Gelderland;NL;;;
-GM0307;Amersfoort;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0307;Amersfoort;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0308;Baarn;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0308;Baarn;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0312;Bunnik;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0312;Bunnik;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0313;Bunschoten;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0313;Bunschoten;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0310;De Bilt;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0310;De Bilt;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0736;De Ronde Venen;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0736;De Ronde Venen;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0317;Eemnes;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0321;Houten;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0321;Houten;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0353;IJsselstein;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0353;IJsselstein;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0327;Leusden;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0327;Leusden;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0331;Lopik;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0331;Lopik;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0335;Montfoort;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0335;Montfoort;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0356;Nieuwegein;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0356;Nieuwegein;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0589;Oudewater;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0339;Renswoude;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0339;Renswoude;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0340;Rhenen;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0340;Rhenen;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0342;Soest;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0342;Soest;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM1904;Stichtse Vecht;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM1904;Stichtse Vecht;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0344;Utrecht (gemeente);VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0344;Utrecht (gemeente);VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM1581;Utrechtse Heuvelrug;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM1581;Utrechtse Heuvelrug;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0345;Veenendaal;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0345;Veenendaal;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM1961;Vijfheerenlanden;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM1961;Vijfheerenlanden;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0352;Wijk bij Duurstede;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0352;Wijk bij Duurstede;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0632;Woerden;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0632;Woerden;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0351;Woudenberg;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0351;Woudenberg;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0355;Zeist;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0355;Zeist;VR09;Utrecht                                           ;PV26;Utrecht;NL;;;
-GM0358;Aalsmeer;VR13;Amsterdam-Amstelland                              ;PV27;Noord Holland;NL;;;
-GM0358;Aalsmeer;VR13;Amsterdam-Amstelland                              ;PV27;Noord Holland;NL;;;
-GM0361;Alkmaar;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0361;Alkmaar;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0362;Amstelveen;VR13;Amsterdam-Amstelland                              ;PV27;Noord Holland;NL;;;
-GM0362;Amstelveen;VR13;Amsterdam-Amstelland                              ;PV27;Noord Holland;NL;;;
-GM0363;Amsterdam;VR13;Amsterdam-Amstelland                              ;PV27;Noord Holland;NL;;;
-GM0363;Amsterdam;VR13;Amsterdam-Amstelland                              ;PV27;Noord Holland;NL;;;
-GM0373;Bergen (NH.);VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0373;Bergen (NH.);VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0375;Beverwijk;VR12;Kennemerland                                      ;PV27;Noord Holland;NL;;;
-GM0375;Beverwijk;VR12;Kennemerland                                      ;PV27;Noord Holland;NL;;;
-GM0376;Blaricum;VR14;Gooi en Vechtstreek                               ;PV27;Noord Holland;NL;;;
-GM0376;Blaricum;VR14;Gooi en Vechtstreek                               ;PV27;Noord Holland;NL;;;
-GM0377;Bloemendaal;VR12;Kennemerland                                      ;PV27;Noord Holland;NL;;;
-GM0377;Bloemendaal;VR12;Kennemerland                                      ;PV27;Noord Holland;NL;;;
-GM0383;Castricum;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0383;Castricum;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0400;Den Helder;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0400;Den Helder;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0384;Diemen;VR13;Amsterdam-Amstelland                              ;PV27;Noord Holland;NL;;;
-GM0384;Diemen;VR13;Amsterdam-Amstelland                              ;PV27;Noord Holland;NL;;;
-GM1980;Dijk en Waard;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM1980;Dijk en Waard;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0498;Drechterland;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0498;Drechterland;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0385;Edam-Volendam;VR11;Zaanstreek-Waterland                              ;PV27;Noord Holland;NL;;;
-GM0385;Edam-Volendam;VR11;Zaanstreek-Waterland                              ;PV27;Noord Holland;NL;;;
-GM0388;Enkhuizen;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0388;Enkhuizen;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM1942;Gooise Meren;VR14;Gooi en Vechtstreek                               ;PV27;Noord Holland;NL;;;
-GM1942;Gooise Meren;VR14;Gooi en Vechtstreek                               ;PV27;Noord Holland;NL;;;
-GM0392;Haarlem;VR12;Kennemerland                                      ;PV27;Noord Holland;NL;;;
-GM0392;Haarlem;VR12;Kennemerland                                      ;PV27;Noord Holland;NL;;;
-GM0394;Haarlemmermeer;VR12;Kennemerland                                      ;PV27;Noord Holland;NL;;;
-GM0394;Haarlemmermeer;VR12;Kennemerland                                      ;PV27;Noord Holland;NL;;;
-GM0396;Heemskerk;VR12;Kennemerland                                      ;PV27;Noord Holland;NL;;;
-GM0396;Heemskerk;VR12;Kennemerland                                      ;PV27;Noord Holland;NL;;;
-GM0397;Heemstede;VR12;Kennemerland                                      ;PV27;Noord Holland;NL;;;
-GM0397;Heemstede;VR12;Kennemerland                                      ;PV27;Noord Holland;NL;;;
-GM0399;Heiloo;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0399;Heiloo;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0402;Hilversum;VR14;Gooi en Vechtstreek                               ;PV27;Noord Holland;NL;;;
-GM0402;Hilversum;VR14;Gooi en Vechtstreek                               ;PV27;Noord Holland;NL;;;
-GM1911;Hollands Kroon;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM1911;Hollands Kroon;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0405;Hoorn;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0405;Hoorn;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0406;Huizen;VR14;Gooi en Vechtstreek                               ;PV27;Noord Holland;NL;;;
-GM0406;Huizen;VR14;Gooi en Vechtstreek                               ;PV27;Noord Holland;NL;;;
-GM1598;Koggenland;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM1598;Koggenland;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0415;Landsmeer;VR11;Zaanstreek-Waterland                              ;PV27;Noord Holland;NL;;;
-GM0415;Landsmeer;VR11;Zaanstreek-Waterland                              ;PV27;Noord Holland;NL;;;
-GM0417;Laren (NH.);VR14;Gooi en Vechtstreek                               ;PV27;Noord Holland;NL;;;
-GM0420;Medemblik;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0420;Medemblik;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0431;Oostzaan;VR11;Zaanstreek-Waterland                              ;PV27;Noord Holland;NL;;;
-GM0431;Oostzaan;VR11;Zaanstreek-Waterland                              ;PV27;Noord Holland;NL;;;
-GM0432;Opmeer;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0432;Opmeer;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0437;Ouder-Amstel;VR13;Amsterdam-Amstelland                              ;PV27;Noord Holland;NL;;;
-GM0437;Ouder-Amstel;VR13;Amsterdam-Amstelland                              ;PV27;Noord Holland;NL;;;
-GM0439;Purmerend;VR11;Zaanstreek-Waterland                              ;PV27;Noord Holland;NL;;;
-GM0439;Purmerend;VR11;Zaanstreek-Waterland                              ;PV27;Noord Holland;NL;;;
-GM0441;Schagen;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0441;Schagen;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0532;Stede Broec;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0532;Stede Broec;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0448;Texel;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0448;Texel;VR10;Noord-Holland-Noord                               ;PV27;Noord Holland;NL;;;
-GM0450;Uitgeest;VR12;Kennemerland                                      ;PV27;Noord Holland;NL;;;
-GM0450;Uitgeest;VR12;Kennemerland                                      ;PV27;Noord Holland;NL;;;
-GM0451;Uithoorn;VR13;Amsterdam-Amstelland                              ;PV27;Noord Holland;NL;;;
-GM0451;Uithoorn;VR13;Amsterdam-Amstelland                              ;PV27;Noord Holland;NL;;;
-GM0453;Velsen;VR12;Kennemerland                                      ;PV27;Noord Holland;NL;;;
-GM0453;Velsen;VR12;Kennemerland                                      ;PV27;Noord Holland;NL;;;
-GM0852;Waterland;VR11;Zaanstreek-Waterland                              ;PV27;Noord Holland;NL;;;
-GM0852;Waterland;VR11;Zaanstreek-Waterland                              ;PV27;Noord Holland;NL;;;
-GM1696;Wijdemeren;VR14;Gooi en Vechtstreek                               ;PV27;Noord Holland;NL;;;
-GM1696;Wijdemeren;VR14;Gooi en Vechtstreek                               ;PV27;Noord Holland;NL;;;
-GM0880;Wormerland;VR11;Zaanstreek-Waterland                              ;PV27;Noord Holland;NL;;;
-GM0479;Zaanstad;VR11;Zaanstreek-Waterland                              ;PV27;Noord Holland;NL;;;
-GM0479;Zaanstad;VR11;Zaanstreek-Waterland                              ;PV27;Noord Holland;NL;;;
-GM0473;Zandvoort;VR12;Kennemerland                                      ;PV27;Noord Holland;NL;;;
-GM0473;Zandvoort;VR12;Kennemerland                                      ;PV27;Noord Holland;NL;;;
-GM0518;'s-Gravenhage (gemeente);VR15;Haaglanden                                        ;PV28;Zuid Holland;NL;;;
-GM0518;'s-Gravenhage (gemeente);VR15;Haaglanden                                        ;PV28;Zuid Holland;NL;;;
-GM0503;Delft;VR15;Haaglanden                                        ;PV28;Zuid Holland;NL;;;
-GM0503;Delft;VR15;Haaglanden                                        ;PV28;Zuid Holland;NL;;;
-GM1916;Leidschendam-Voorburg;VR15;Haaglanden                                        ;PV28;Zuid Holland;NL;;;
-GM1916;Leidschendam-Voorburg;VR15;Haaglanden                                        ;PV28;Zuid Holland;NL;;;
-GM1842;Midden-Delfland;VR15;Haaglanden                                        ;PV28;Zuid Holland;NL;;;
-GM1842;Midden-Delfland;VR15;Haaglanden                                        ;PV28;Zuid Holland;NL;;;
-GM1926;Pijnacker-Nootdorp;VR15;Haaglanden                                        ;PV28;Zuid Holland;NL;;;
-GM1926;Pijnacker-Nootdorp;VR15;Haaglanden                                        ;PV28;Zuid Holland;NL;;;
-GM0603;Rijswijk (ZH.);VR15;Haaglanden                                        ;PV28;Zuid Holland;NL;;;
-GM0603;Rijswijk (ZH.);VR15;Haaglanden                                        ;PV28;Zuid Holland;NL;;;
-GM0629;Wassenaar;VR15;Haaglanden                                        ;PV28;Zuid Holland;NL;;;
-GM0629;Wassenaar;VR15;Haaglanden                                        ;PV28;Zuid Holland;NL;;;
-GM1783;Westland;VR15;Haaglanden                                        ;PV28;Zuid Holland;NL;;;
-GM1783;Westland;VR15;Haaglanden                                        ;PV28;Zuid Holland;NL;;;
-GM0637;Zoetermeer;VR15;Haaglanden                                        ;PV28;Zuid Holland;NL;;;
-GM0637;Zoetermeer;VR15;Haaglanden                                        ;PV28;Zuid Holland;NL;;;
-GM0484;Alphen aan den Rijn;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;;
-GM0484;Alphen aan den Rijn;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;;
-GM1901;Bodegraven-Reeuwijk;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;;
-GM1901;Bodegraven-Reeuwijk;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;;
-GM0654;Borsele;VR19;Zeeland                                           ;PV29;Zeeland;NL;;;
-GM0654;Borsele;VR19;Zeeland                                           ;PV29;Zeeland;NL;;;
-GM0664;Goes;VR19;Zeeland                                           ;PV29;Zeeland;NL;;;
-GM0664;Goes;VR19;Zeeland                                           ;PV29;Zeeland;NL;;;
-GM0513;Gouda;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;;
-GM0513;Gouda;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;;
-GM0534;Hillegom;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;;
-GM0534;Hillegom;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;;
-GM0677;Hulst;VR19;Zeeland                                           ;PV29;Zeeland;NL;;;
-GM0677;Hulst;VR19;Zeeland                                           ;PV29;Zeeland;NL;;;
-GM1884;Kaag en Braassem;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;PV20; VR01       
-GM1884;Kaag en Braassem;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;PV21; VR02       
-GM0678;Kapelle;VR19;Zeeland                                           ;PV29;Zeeland;NL;;PV22; VR03       
-GM0678;Kapelle;VR19;Zeeland                                           ;PV29;Zeeland;NL;;PV23; VR04       
-GM0537;Katwijk;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;PV23; VR05       
-GM0537;Katwijk;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;PV25; VR06       
-GM1931;Krimpenerwaard;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;PV25; VR07       
-GM1931;Krimpenerwaard;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;PV25; VR08       
-GM0546;Leiden;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;PV26; VR09       
-GM0546;Leiden;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;PV27; VR10       
-GM0547;Leiderdorp;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;PV27; VR11       
-GM0547;Leiderdorp;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;PV27; VR12       
-GM0553;Lisse;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;PV27; VR13       
-GM0553;Lisse;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;PV27; VR14       
-GM0687;Middelburg (Z.);VR19;Zeeland                                           ;PV29;Zeeland;NL;;PV28; VR15       
-GM0687;Middelburg (Z.);VR19;Zeeland                                           ;PV29;Zeeland;NL;;PV29; VR16       
-GM0569;Nieuwkoop;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;PV30; VR17       
-GM0569;Nieuwkoop;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;PV31; VR18       
-GM1695;Noord-Beveland;VR19;Zeeland                                           ;PV29;Zeeland;NL;;PV29; VR19       
-GM0575;Noordwijk;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;PV30; VR20       
-GM0575;Noordwijk;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;PV30; VR21       
-GM0579;Oegstgeest;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;PV30; VR22       
-GM0579;Oegstgeest;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;PV31; VR23       
-GM0703;Reimerswaal;VR19;Zeeland                                           ;PV29;Zeeland;NL;;PV31; VR24       
-GM0703;Reimerswaal;VR19;Zeeland                                           ;PV29;Zeeland;NL;;PV24; VR25       
-GM1676;Schouwen-Duiveland;VR19;Zeeland                                           ;PV29;Zeeland;NL;;;
-GM1676;Schouwen-Duiveland;VR19;Zeeland                                           ;PV29;Zeeland;NL;;;
-GM1714;Sluis;VR19;Zeeland                                           ;PV29;Zeeland;NL;;;
-GM1714;Sluis;VR19;Zeeland                                           ;PV29;Zeeland;NL;;;
-GM0715;Terneuzen;VR19;Zeeland                                           ;PV29;Zeeland;NL;;;
-GM0715;Terneuzen;VR19;Zeeland                                           ;PV29;Zeeland;NL;;;
-GM1525;Teylingen;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;;
-GM1525;Teylingen;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;;
-GM0716;Tholen;VR19;Zeeland                                           ;PV29;Zeeland;NL;;;
-GM0716;Tholen;VR19;Zeeland                                           ;PV29;Zeeland;NL;;;
-GM0717;Veere;VR19;Zeeland                                           ;PV29;Zeeland;NL;;;
-GM0717;Veere;VR19;Zeeland                                           ;PV29;Zeeland;NL;;;
-GM0718;Vlissingen;VR19;Zeeland                                           ;PV29;Zeeland;NL;;;
-GM0718;Vlissingen;VR19;Zeeland                                           ;PV29;Zeeland;NL;;;
-GM0626;Voorschoten;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;;
-GM0626;Voorschoten;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;;
-GM0627;Waddinxveen;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;;
-GM0627;Waddinxveen;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;;
-GM0638;Zoeterwoude;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;;
-GM0638;Zoeterwoude;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;;
-GM1892;Zuidplas;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;;
-GM1892;Zuidplas;VR16;Hollands-Midden                                   ;PV28;Zuid Holland;NL;;;
-GM0796;'s-Hertogenbosch;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM0796;'s-Hertogenbosch;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM0613;Albrandswaard;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM0613;Albrandswaard;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM1723;Alphen-Chaam;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM1959;Altena;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM1959;Altena;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0743;Asten;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0743;Asten;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0744;Baarle-Nassau;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0744;Baarle-Nassau;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0489;Barendrecht;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM0489;Barendrecht;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM1724;Bergeijk;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM1724;Bergeijk;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0748;Bergen op Zoom;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0748;Bergen op Zoom;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM1721;Bernheze;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM1721;Bernheze;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM0753;Best;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0753;Best;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM1728;Bladel;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM1728;Bladel;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0755;Boekel;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM0755;Boekel;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM0757;Boxtel;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM0757;Boxtel;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM0758;Breda;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0758;Breda;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0502;Capelle aan den IJssel;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM0502;Capelle aan den IJssel;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM1706;Cranendonck;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM1706;Cranendonck;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0762;Deurne;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0762;Deurne;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0766;Dongen;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0766;Dongen;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM1719;Drimmelen;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM1719;Drimmelen;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0770;Eersel;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0770;Eersel;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0772;Eindhoven;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0772;Eindhoven;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0777;Etten-Leur;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0777;Etten-Leur;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0779;Geertruidenberg;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0779;Geertruidenberg;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM1771;Geldrop-Mierlo;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM1771;Geldrop-Mierlo;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM1652;Gemert-Bakel;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM1652;Gemert-Bakel;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0784;Gilze en Rijen;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0784;Gilze en Rijen;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM1924;Goeree-Overflakkee;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM1924;Goeree-Overflakkee;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM0785;Goirle;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0785;Goirle;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM1655;Halderberge;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM1655;Halderberge;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM1658;Heeze-Leende;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM1658;Heeze-Leende;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0794;Helmond;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0794;Helmond;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0797;Heusden;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM0797;Heusden;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM0798;Hilvarenbeek;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0798;Hilvarenbeek;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0542;Krimpen aan den IJssel;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM0542;Krimpen aan den IJssel;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM1659;Laarbeek;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM1659;Laarbeek;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM1982;Land van Cuijk;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM1982;Land van Cuijk;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM1621;Lansingerland;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM1621;Lansingerland;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM0809;Loon op Zand;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM1991;Maashorst;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM1991;Maashorst;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM0556;Maassluis;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM0556;Maassluis;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM1948;Meierijstad;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM1948;Meierijstad;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM1709;Moerdijk;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM1709;Moerdijk;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM1930;Nissewaard;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM1930;Nissewaard;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM0820;Nuenen, Gerwen en Nederwetten;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0820;Nuenen, Gerwen en Nederwetten;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0823;Oirschot;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0824;Oisterwijk;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0824;Oisterwijk;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0826;Oosterhout;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0826;Oosterhout;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0828;Oss;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM0828;Oss;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM1667;Reusel-De Mierden;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM1667;Reusel-De Mierden;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0597;Ridderkerk;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM0597;Ridderkerk;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM1674;Roosendaal;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM1674;Roosendaal;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0599;Rotterdam;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM0599;Rotterdam;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM0840;Rucphen;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0840;Rucphen;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0606;Schiedam;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM0606;Schiedam;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM0845;Sint-Michielsgestel;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM0845;Sint-Michielsgestel;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM0847;Someren;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0847;Someren;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0848;Son en Breugel;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0851;Steenbergen;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0855;Tilburg;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0855;Tilburg;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0858;Valkenswaard;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0858;Valkenswaard;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0861;Veldhoven;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0861;Veldhoven;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0622;Vlaardingen;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM0622;Vlaardingen;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM1992;Voorne aan Zee;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM1992;Voorne aan Zee;VR17;Rotterdam-Rijnmond                                ;PV28;Zuid Holland;NL;;;
-GM0865;Vught;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM0865;Vught;VR21;Brabant-Noord                                     ;PV30;Noord Brabant;NL;;;
-GM0866;Waalre;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0866;Waalre;VR22;Brabant-Zuidoost                                  ;PV30;Noord Brabant;NL;;;
-GM0867;Waalwijk;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0867;Waalwijk;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0873;Woensdrecht;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0873;Woensdrecht;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0879;Zundert;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0879;Zundert;VR20;Midden- en West-Brabant                           ;PV30;Noord Brabant;NL;;;
-GM0482;Alblasserdam;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM0482;Alblasserdam;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM0888;Beek (L.);VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0888;Beek (L.);VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM1954;Beekdaelen;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM1954;Beekdaelen;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0889;Beesel;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0889;Beesel;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0893;Bergen (L.);VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0893;Bergen (L.);VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0899;Brunssum;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0899;Brunssum;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0505;Dordrecht;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM0505;Dordrecht;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM1711;Echt-Susteren;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM1711;Echt-Susteren;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM1903;Eijsden-Margraten;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM1903;Eijsden-Margraten;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0907;Gennep;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0907;Gennep;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0512;Gorinchem;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM0512;Gorinchem;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM1729;Gulpen-Wittem;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM1729;Gulpen-Wittem;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0523;Hardinxveld-Giessendam;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM0523;Hardinxveld-Giessendam;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM0917;Heerlen;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0917;Heerlen;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0531;Hendrik-Ido-Ambacht;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM0531;Hendrik-Ido-Ambacht;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM1963;Hoeksche Waard;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM1963;Hoeksche Waard;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM1507;Horst aan de Maas;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM1507;Horst aan de Maas;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0928;Kerkrade;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0928;Kerkrade;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0882;Landgraaf;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0882;Landgraaf;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM1640;Leudal;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM1640;Leudal;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM1641;Maasgouw;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM1641;Maasgouw;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0935;Maastricht;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0935;Maastricht;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0938;Meerssen;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0938;Meerssen;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM1978;Molenlanden;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM1978;Molenlanden;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM0944;Mook en Middelaar;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0944;Mook en Middelaar;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0946;Nederweert;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0946;Nederweert;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0590;Papendrecht;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM0590;Papendrecht;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM1894;Peel en Maas;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM1894;Peel en Maas;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM1669;Roerdalen;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0957;Roermond;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0957;Roermond;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0965;Simpelveld;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM1883;Sittard-Geleen;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM1883;Sittard-Geleen;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0610;Sliedrecht;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM0610;Sliedrecht;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM0971;Stein (L.);VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0981;Vaals;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0981;Vaals;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0994;Valkenburg aan de Geul;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0994;Valkenburg aan de Geul;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0983;Venlo;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0983;Venlo;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0984;Venray;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0984;Venray;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0986;Voerendaal;VR24;Limburg-Zuid                                      ;PV31;Limburg;NL;;;
-GM0988;Weert;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0988;Weert;VR23;Limburg-Noord                                     ;PV31;Limburg;NL;;;
-GM0642;Zwijndrecht;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
-GM0642;Zwijndrecht;VR18;Zuid-Holland-Zuid                                 ;PV28;Zuid Holland;NL;;;
+﻿gemeentCode;gemeenteNaam;veiligheidsRegioCode;veiligheidsRegioNaam;provincieCode;Provincie;Land
+GM1979;Eemsdelta;VR01;Groningen;PV20;Groningen;NL
+GM0014;Groningen (gemeente);VR01;Groningen;PV20;Groningen;NL
+GM1966;Het Hogeland;VR01;Groningen;PV20;Groningen;NL
+GM1952;Midden-Groningen;VR01;Groningen;PV20;Groningen;NL
+GM1895;Oldambt;VR01;Groningen;PV20;Groningen;NL
+GM0765;Pekela;VR01;Groningen;PV20;Groningen;NL
+GM0037;Stadskanaal;VR01;Groningen;PV20;Groningen;NL
+GM0047;Veendam;VR01;Groningen;PV20;Groningen;NL
+GM1969;Westerkwartier;VR01;Groningen;PV20;Groningen;NL
+GM1950;Westerwolde;VR01;Groningen;PV20;Groningen;NL
+GM0059;Achtkarspelen;VR02;Fryslân;PV21;Friesland;NL
+GM0060;Ameland;VR02;Fryslân;PV21;Friesland;NL
+GM1891;Dantumadiel;VR02;Fryslân;PV21;Friesland;NL
+GM1940;De Fryske Marren;VR02;Fryslân;PV21;Friesland;NL
+GM0072;Harlingen;VR02;Fryslân;PV21;Friesland;NL
+GM0074;Heerenveen;VR02;Fryslân;PV21;Friesland;NL
+GM0080;Leeuwarden;VR02;Fryslân;PV21;Friesland;NL
+GM1970;Noardeast-Fryslân;VR02;Fryslân;PV21;Friesland;NL
+GM0085;Ooststellingwerf;VR02;Fryslân;PV21;Friesland;NL
+GM0086;Opsterland;VR02;Fryslân;PV21;Friesland;NL
+GM0088;Schiermonnikoog;VR02;Fryslân;PV21;Friesland;NL
+GM0090;Smallingerland;VR02;Fryslân;PV21;Friesland;NL
+GM1900;Súdwest-Fryslân;VR02;Fryslân;PV21;Friesland;NL
+GM0093;Terschelling;VR02;Fryslân;PV21;Friesland;NL
+GM0737;Tytsjerksteradiel;VR02;Fryslân;PV21;Friesland;NL
+GM0096;Vlieland;VR02;Fryslân;PV21;Friesland;NL
+GM1949;Waadhoeke;VR02;Fryslân;PV21;Friesland;NL
+GM0098;Weststellingwerf;VR02;Fryslân;PV21;Friesland;NL
+GM1680;Aa en Hunze;VR03;Drenthe;PV22;Drenthe;NL
+GM0106;Assen;VR03;Drenthe;PV22;Drenthe;NL
+GM1681;Borger-Odoorn;VR03;Drenthe;PV22;Drenthe;NL
+GM0109;Coevorden;VR03;Drenthe;PV22;Drenthe;NL
+GM1690;De Wolden;VR03;Drenthe;PV22;Drenthe;NL
+GM0114;Emmen;VR03;Drenthe;PV22;Drenthe;NL
+GM0118;Hoogeveen;VR03;Drenthe;PV22;Drenthe;NL
+GM0119;Meppel;VR03;Drenthe;PV22;Drenthe;NL
+GM1731;Midden-Drenthe;VR03;Drenthe;PV22;Drenthe;NL
+GM1699;Noordenveld;VR03;Drenthe;PV22;Drenthe;NL
+GM1730;Tynaarlo;VR03;Drenthe;PV22;Drenthe;NL
+GM1701;Westerveld;VR03;Drenthe;PV22;Drenthe;NL
+GM0141;Almelo;VR05;Twente;PV23;Overijssel;NL
+GM0147;Borne;VR05;Twente;PV23;Overijssel;NL
+GM0148;Dalfsen;VR04;IJsselland;PV23;Overijssel;NL
+GM0150;Deventer;VR04;IJsselland;PV23;Overijssel;NL
+GM1774;Dinkelland;VR05;Twente;PV23;Overijssel;NL
+GM0153;Enschede;VR05;Twente;PV23;Overijssel;NL
+GM0158;Haaksbergen;VR05;Twente;PV23;Overijssel;NL
+GM0160;Hardenberg;VR04;IJsselland;PV23;Overijssel;NL
+GM0163;Hellendoorn;VR05;Twente;PV23;Overijssel;NL
+GM0164;Hengelo (O.);VR05;Twente;PV23;Overijssel;NL
+GM1735;Hof van Twente;VR05;Twente;PV23;Overijssel;NL
+GM0166;Kampen;VR04;IJsselland;PV23;Overijssel;NL
+GM0168;Losser;VR05;Twente;PV23;Overijssel;NL
+GM0173;Oldenzaal;VR05;Twente;PV23;Overijssel;NL
+GM1773;Olst-Wijhe;VR04;IJsselland;PV23;Overijssel;NL
+GM0175;Ommen;VR04;IJsselland;PV23;Overijssel;NL
+GM0177;Raalte;VR04;IJsselland;PV23;Overijssel;NL
+GM1742;Rijssen-Holten;VR05;Twente;PV23;Overijssel;NL
+GM0180;Staphorst;VR04;IJsselland;PV23;Overijssel;NL
+GM1708;Steenwijkerland;VR04;IJsselland;PV23;Overijssel;NL
+GM0183;Tubbergen;VR05;Twente;PV23;Overijssel;NL
+GM1700;Twenterand;VR05;Twente;PV23;Overijssel;NL
+GM0189;Wierden;VR05;Twente;PV23;Overijssel;NL
+GM1896;Zwartewaterland;VR04;IJsselland;PV23;Overijssel;NL
+GM0193;Zwolle;VR04;IJsselland;PV23;Overijssel;NL
+GM0034;Almere;VR25;Flevoland;PV24;Flevoland;NL
+GM0303;Dronten;VR25;Flevoland;PV24;Flevoland;NL
+GM0995;Lelystad;VR25;Flevoland;PV24;Flevoland;NL
+GM0171;Noordoostpolder;VR25;Flevoland;PV24;Flevoland;NL
+GM0184;Urk;VR25;Flevoland;PV24;Flevoland;NL
+GM0050;Zeewolde;VR25;Flevoland;PV24;Flevoland;NL
+GM0197;Aalten;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM0200;Apeldoorn;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM0202;Arnhem;VR07;Gelderland-Midden;PV25;Gelderland;NL
+GM0203;Barneveld;VR07;Gelderland-Midden;PV25;Gelderland;NL
+GM1945;Berg en Dal;VR08;Gelderland-Zuid;PV25;Gelderland;NL
+GM1859;Berkelland;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM0209;Beuningen;VR08;Gelderland-Zuid;PV25;Gelderland;NL
+GM1876;Bronckhorst;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM0213;Brummen;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM0214;Buren;VR08;Gelderland-Zuid;PV25;Gelderland;NL
+GM0216;Culemborg;VR08;Gelderland-Zuid;PV25;Gelderland;NL
+GM0221;Doesburg;VR07;Gelderland-Midden;PV25;Gelderland;NL
+GM0222;Doetinchem;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM0225;Druten;VR08;Gelderland-Zuid;PV25;Gelderland;NL
+GM0226;Duiven;VR07;Gelderland-Midden;PV25;Gelderland;NL
+GM0228;Ede;VR07;Gelderland-Midden;PV25;Gelderland;NL
+GM0230;Elburg;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM0232;Epe;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM0233;Ermelo;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM0243;Harderwijk;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM0244;Hattem;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM0246;Heerde;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM0252;Heumen;VR08;Gelderland-Zuid;PV25;Gelderland;NL
+GM1705;Lingewaard;VR07;Gelderland-Midden;PV25;Gelderland;NL
+GM0262;Lochem;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM0263;Maasdriel;VR08;Gelderland-Zuid;PV25;Gelderland;NL
+GM1955;Montferland;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM1740;Neder-Betuwe;VR08;Gelderland-Zuid;PV25;Gelderland;NL
+GM0267;Nijkerk;VR07;Gelderland-Midden;PV25;Gelderland;NL
+GM0268;Nijmegen;VR08;Gelderland-Zuid;PV25;Gelderland;NL
+GM0302;Nunspeet;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM0269;Oldebroek;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM1586;Oost Gelre;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM1509;Oude IJsselstreek;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM1734;Overbetuwe;VR07;Gelderland-Midden;PV25;Gelderland;NL
+GM0273;Putten;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM0274;Renkum;VR07;Gelderland-Midden;PV25;Gelderland;NL
+GM0275;Rheden;VR07;Gelderland-Midden;PV25;Gelderland;NL
+GM0277;Rozendaal;VR07;Gelderland-Midden;PV25;Gelderland;NL
+GM0279;Scherpenzeel;VR07;Gelderland-Midden;PV25;Gelderland;NL
+GM0281;Tiel;VR08;Gelderland-Zuid;PV25;Gelderland;NL
+GM0285;Voorst;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM0289;Wageningen;VR07;Gelderland-Midden;PV25;Gelderland;NL
+GM1960;West Betuwe;VR08;Gelderland-Zuid;PV25;Gelderland;NL
+GM0668;West Maas en Waal;VR08;Gelderland-Zuid;PV25;Gelderland;NL
+GM0293;Westervoort;VR07;Gelderland-Midden;PV25;Gelderland;NL
+GM0296;Wijchen;VR08;Gelderland-Zuid;PV25;Gelderland;NL
+GM0294;Winterswijk;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM0297;Zaltbommel;VR08;Gelderland-Zuid;PV25;Gelderland;NL
+GM0299;Zevenaar;VR07;Gelderland-Midden;PV25;Gelderland;NL
+GM0301;Zutphen;VR06;Noord- en Oost-Gelderland;PV25;Gelderland;NL
+GM0307;Amersfoort;VR09;Utrecht;PV26;Utrecht;NL
+GM0308;Baarn;VR09;Utrecht;PV26;Utrecht;NL
+GM0312;Bunnik;VR09;Utrecht;PV26;Utrecht;NL
+GM0313;Bunschoten;VR09;Utrecht;PV26;Utrecht;NL
+GM0310;De Bilt;VR09;Utrecht;PV26;Utrecht;NL
+GM0736;De Ronde Venen;VR09;Utrecht;PV26;Utrecht;NL
+GM0317;Eemnes;VR09;Utrecht;PV26;Utrecht;NL
+GM0321;Houten;VR09;Utrecht;PV26;Utrecht;NL
+GM0353;IJsselstein;VR09;Utrecht;PV26;Utrecht;NL
+GM0327;Leusden;VR09;Utrecht;PV26;Utrecht;NL
+GM0331;Lopik;VR09;Utrecht;PV26;Utrecht;NL
+GM0335;Montfoort;VR09;Utrecht;PV26;Utrecht;NL
+GM0356;Nieuwegein;VR09;Utrecht;PV26;Utrecht;NL
+GM0589;Oudewater;VR09;Utrecht;PV26;Utrecht;NL
+GM0339;Renswoude;VR09;Utrecht;PV26;Utrecht;NL
+GM0340;Rhenen;VR09;Utrecht;PV26;Utrecht;NL
+GM0342;Soest;VR09;Utrecht;PV26;Utrecht;NL
+GM1904;Stichtse Vecht;VR09;Utrecht;PV26;Utrecht;NL
+GM0344;Utrecht (gemeente);VR09;Utrecht;PV26;Utrecht;NL
+GM1581;Utrechtse Heuvelrug;VR09;Utrecht;PV26;Utrecht;NL
+GM0345;Veenendaal;VR09;Utrecht;PV26;Utrecht;NL
+GM1961;Vijfheerenlanden;VR09;Utrecht;PV26;Utrecht;NL
+GM0352;Wijk bij Duurstede;VR09;Utrecht;PV26;Utrecht;NL
+GM0632;Woerden;VR09;Utrecht;PV26;Utrecht;NL
+GM0351;Woudenberg;VR09;Utrecht;PV26;Utrecht;NL
+GM0355;Zeist;VR09;Utrecht;PV26;Utrecht;NL
+GM0358;Aalsmeer;VR13;Amsterdam-Amstelland;PV27;Noord Holland;NL
+GM0361;Alkmaar;VR10;Noord-Holland-Noord;PV27;Noord Holland;NL
+GM0362;Amstelveen;VR13;Amsterdam-Amstelland;PV27;Noord Holland;NL
+GM0363;Amsterdam;VR13;Amsterdam-Amstelland;PV27;Noord Holland;NL
+GM0373;Bergen (NH.);VR10;Noord-Holland-Noord;PV27;Noord Holland;NL
+GM0375;Beverwijk;VR12;Kennemerland;PV27;Noord Holland;NL
+GM0376;Blaricum;VR14;Gooi en Vechtstreek;PV27;Noord Holland;NL
+GM0377;Bloemendaal;VR12;Kennemerland;PV27;Noord Holland;NL
+GM0383;Castricum;VR10;Noord-Holland-Noord;PV27;Noord Holland;NL
+GM0400;Den Helder;VR10;Noord-Holland-Noord;PV27;Noord Holland;NL
+GM0384;Diemen;VR13;Amsterdam-Amstelland;PV27;Noord Holland;NL
+GM1980;Dijk en Waard;VR10;Noord-Holland-Noord;PV27;Noord Holland;NL
+GM0498;Drechterland;VR10;Noord-Holland-Noord;PV27;Noord Holland;NL
+GM0385;Edam-Volendam;VR11;Zaanstreek-Waterland;PV27;Noord Holland;NL
+GM0388;Enkhuizen;VR10;Noord-Holland-Noord;PV27;Noord Holland;NL
+GM1942;Gooise Meren;VR14;Gooi en Vechtstreek;PV27;Noord Holland;NL
+GM0392;Haarlem;VR12;Kennemerland;PV27;Noord Holland;NL
+GM0394;Haarlemmermeer;VR12;Kennemerland;PV27;Noord Holland;NL
+GM0396;Heemskerk;VR12;Kennemerland;PV27;Noord Holland;NL
+GM0397;Heemstede;VR12;Kennemerland;PV27;Noord Holland;NL
+GM0399;Heiloo;VR10;Noord-Holland-Noord;PV27;Noord Holland;NL
+GM0402;Hilversum;VR14;Gooi en Vechtstreek;PV27;Noord Holland;NL
+GM1911;Hollands Kroon;VR10;Noord-Holland-Noord;PV27;Noord Holland;NL
+GM0405;Hoorn;VR10;Noord-Holland-Noord;PV27;Noord Holland;NL
+GM0406;Huizen;VR14;Gooi en Vechtstreek;PV27;Noord Holland;NL
+GM1598;Koggenland;VR10;Noord-Holland-Noord;PV27;Noord Holland;NL
+GM0415;Landsmeer;VR11;Zaanstreek-Waterland;PV27;Noord Holland;NL
+GM0417;Laren (NH.);VR14;Gooi en Vechtstreek;PV27;Noord Holland;NL
+GM0420;Medemblik;VR10;Noord-Holland-Noord;PV27;Noord Holland;NL
+GM0431;Oostzaan;VR11;Zaanstreek-Waterland;PV27;Noord Holland;NL
+GM0432;Opmeer;VR10;Noord-Holland-Noord;PV27;Noord Holland;NL
+GM0437;Ouder-Amstel;VR13;Amsterdam-Amstelland;PV27;Noord Holland;NL
+GM0439;Purmerend;VR11;Zaanstreek-Waterland;PV27;Noord Holland;NL
+GM0441;Schagen;VR10;Noord-Holland-Noord;PV27;Noord Holland;NL
+GM0532;Stede Broec;VR10;Noord-Holland-Noord;PV27;Noord Holland;NL
+GM0448;Texel;VR10;Noord-Holland-Noord;PV27;Noord Holland;NL
+GM0450;Uitgeest;VR12;Kennemerland;PV27;Noord Holland;NL
+GM0451;Uithoorn;VR13;Amsterdam-Amstelland;PV27;Noord Holland;NL
+GM0453;Velsen;VR12;Kennemerland;PV27;Noord Holland;NL
+GM0852;Waterland;VR11;Zaanstreek-Waterland;PV27;Noord Holland;NL
+GM1696;Wijdemeren;VR14;Gooi en Vechtstreek;PV27;Noord Holland;NL
+GM0880;Wormerland;VR11;Zaanstreek-Waterland;PV27;Noord Holland;NL
+GM0479;Zaanstad;VR11;Zaanstreek-Waterland;PV27;Noord Holland;NL
+GM0473;Zandvoort;VR12;Kennemerland;PV27;Noord Holland;NL
+GM0518;'s-Gravenhage (gemeente);VR15;Haaglanden;PV28;Zuid Holland;NL
+GM0503;Delft;VR15;Haaglanden;PV28;Zuid Holland;NL
+GM1916;Leidschendam-Voorburg;VR15;Haaglanden;PV28;Zuid Holland;NL
+GM1842;Midden-Delfland;VR15;Haaglanden;PV28;Zuid Holland;NL
+GM1926;Pijnacker-Nootdorp;VR15;Haaglanden;PV28;Zuid Holland;NL
+GM0603;Rijswijk (ZH.);VR15;Haaglanden;PV28;Zuid Holland;NL
+GM0629;Wassenaar;VR15;Haaglanden;PV28;Zuid Holland;NL
+GM1783;Westland;VR15;Haaglanden;PV28;Zuid Holland;NL
+GM0637;Zoetermeer;VR15;Haaglanden;PV28;Zuid Holland;NL
+GM0484;Alphen aan den Rijn;VR16;Hollands-Midden;PV28;Zuid Holland;NL
+GM1901;Bodegraven-Reeuwijk;VR16;Hollands-Midden;PV28;Zuid Holland;NL
+GM0654;Borsele;VR19;Zeeland;PV29;Zeeland;NL
+GM0664;Goes;VR19;Zeeland;PV29;Zeeland;NL
+GM0513;Gouda;VR16;Hollands-Midden;PV28;Zuid Holland;NL
+GM0534;Hillegom;VR16;Hollands-Midden;PV28;Zuid Holland;NL
+GM0677;Hulst;VR19;Zeeland;PV29;Zeeland;NL
+GM1884;Kaag en Braassem;VR16;Hollands-Midden;PV28;Zuid Holland;NL
+GM0678;Kapelle;VR19;Zeeland;PV29;Zeeland;NL
+GM0537;Katwijk;VR16;Hollands-Midden;PV28;Zuid Holland;NL
+GM1931;Krimpenerwaard;VR16;Hollands-Midden;PV28;Zuid Holland;NL
+GM0546;Leiden;VR16;Hollands-Midden;PV28;Zuid Holland;NL
+GM0547;Leiderdorp;VR16;Hollands-Midden;PV28;Zuid Holland;NL
+GM0553;Lisse;VR16;Hollands-Midden;PV28;Zuid Holland;NL
+GM0687;Middelburg (Z.);VR19;Zeeland;PV29;Zeeland;NL
+GM0569;Nieuwkoop;VR16;Hollands-Midden;PV28;Zuid Holland;NL
+GM1695;Noord-Beveland;VR19;Zeeland;PV29;Zeeland;NL
+GM0575;Noordwijk;VR16;Hollands-Midden;PV28;Zuid Holland;NL
+GM0579;Oegstgeest;VR16;Hollands-Midden;PV28;Zuid Holland;NL
+GM0703;Reimerswaal;VR19;Zeeland;PV29;Zeeland;NL
+GM1676;Schouwen-Duiveland;VR19;Zeeland;PV29;Zeeland;NL
+GM1714;Sluis;VR19;Zeeland;PV29;Zeeland;NL
+GM0715;Terneuzen;VR19;Zeeland;PV29;Zeeland;NL
+GM1525;Teylingen;VR16;Hollands-Midden;PV28;Zuid Holland;NL
+GM0716;Tholen;VR19;Zeeland;PV29;Zeeland;NL
+GM0717;Veere;VR19;Zeeland;PV29;Zeeland;NL
+GM0718;Vlissingen;VR19;Zeeland;PV29;Zeeland;NL
+GM0626;Voorschoten;VR16;Hollands-Midden;PV28;Zuid Holland;NL
+GM0627;Waddinxveen;VR16;Hollands-Midden;PV28;Zuid Holland;NL
+GM0638;Zoeterwoude;VR16;Hollands-Midden;PV28;Zuid Holland;NL
+GM1892;Zuidplas;VR16;Hollands-Midden;PV28;Zuid Holland;NL
+GM0796;'s-Hertogenbosch;VR21;Brabant-Noord;PV30;Noord Brabant;NL
+GM0613;Albrandswaard;VR17;Rotterdam-Rijnmond;PV28;Zuid Holland;NL
+GM1723;Alphen-Chaam;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM1959;Altena;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM0743;Asten;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM0744;Baarle-Nassau;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM0489;Barendrecht;VR17;Rotterdam-Rijnmond;PV28;Zuid Holland;NL
+GM1724;Bergeijk;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM0748;Bergen op Zoom;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM1721;Bernheze;VR21;Brabant-Noord;PV30;Noord Brabant;NL
+GM0753;Best;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM1728;Bladel;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM0755;Boekel;VR21;Brabant-Noord;PV30;Noord Brabant;NL
+GM0757;Boxtel;VR21;Brabant-Noord;PV30;Noord Brabant;NL
+GM0758;Breda;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM0502;Capelle aan den IJssel;VR17;Rotterdam-Rijnmond;PV28;Zuid Holland;NL
+GM1706;Cranendonck;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM0762;Deurne;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM0766;Dongen;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM1719;Drimmelen;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM0770;Eersel;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM0772;Eindhoven;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM0777;Etten-Leur;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM0779;Geertruidenberg;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM1771;Geldrop-Mierlo;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM1652;Gemert-Bakel;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM0784;Gilze en Rijen;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM1924;Goeree-Overflakkee;VR17;Rotterdam-Rijnmond;PV28;Zuid Holland;NL
+GM0785;Goirle;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM1655;Halderberge;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM1658;Heeze-Leende;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM0794;Helmond;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM0797;Heusden;VR21;Brabant-Noord;PV30;Noord Brabant;NL
+GM0798;Hilvarenbeek;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM0542;Krimpen aan den IJssel;VR17;Rotterdam-Rijnmond;PV28;Zuid Holland;NL
+GM1659;Laarbeek;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM1982;Land van Cuijk;VR21;Brabant-Noord;PV30;Noord Brabant;NL
+GM1621;Lansingerland;VR17;Rotterdam-Rijnmond;PV28;Zuid Holland;NL
+GM0809;Loon op Zand;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM1991;Maashorst;VR21;Brabant-Noord;PV30;Noord Brabant;NL
+GM0556;Maassluis;VR17;Rotterdam-Rijnmond;PV28;Zuid Holland;NL
+GM1948;Meierijstad;VR21;Brabant-Noord;PV30;Noord Brabant;NL
+GM1709;Moerdijk;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM1930;Nissewaard;VR17;Rotterdam-Rijnmond;PV28;Zuid Holland;NL
+GM0820;Nuenen, Gerwen en Nederwetten;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM0823;Oirschot;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM0824;Oisterwijk;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM0826;Oosterhout;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM0828;Oss;VR21;Brabant-Noord;PV30;Noord Brabant;NL
+GM1667;Reusel-De Mierden;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM0597;Ridderkerk;VR17;Rotterdam-Rijnmond;PV28;Zuid Holland;NL
+GM1674;Roosendaal;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM0599;Rotterdam;VR17;Rotterdam-Rijnmond;PV28;Zuid Holland;NL
+GM0840;Rucphen;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM0606;Schiedam;VR17;Rotterdam-Rijnmond;PV28;Zuid Holland;NL
+GM0845;Sint-Michielsgestel;VR21;Brabant-Noord;PV30;Noord Brabant;NL
+GM0847;Someren;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM0848;Son en Breugel;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM0851;Steenbergen;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM0855;Tilburg;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM0858;Valkenswaard;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM0861;Veldhoven;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM0622;Vlaardingen;VR17;Rotterdam-Rijnmond;PV28;Zuid Holland;NL
+GM1992;Voorne aan Zee;VR17;Rotterdam-Rijnmond;PV28;Zuid Holland;NL
+GM0865;Vught;VR21;Brabant-Noord;PV30;Noord Brabant;NL
+GM0866;Waalre;VR22;Brabant-Zuidoost;PV30;Noord Brabant;NL
+GM0867;Waalwijk;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM0873;Woensdrecht;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM0879;Zundert;VR20;Midden- en West-Brabant;PV30;Noord Brabant;NL
+GM0482;Alblasserdam;VR18;Zuid-Holland-Zuid;PV28;Zuid Holland;NL
+GM0888;Beek (L.);VR24;Limburg-Zuid;PV31;Limburg;NL
+GM1954;Beekdaelen;VR24;Limburg-Zuid;PV31;Limburg;NL
+GM0889;Beesel;VR23;Limburg-Noord;PV31;Limburg;NL
+GM0893;Bergen (L.);VR23;Limburg-Noord;PV31;Limburg;NL
+GM0899;Brunssum;VR24;Limburg-Zuid;PV31;Limburg;NL
+GM0505;Dordrecht;VR18;Zuid-Holland-Zuid;PV28;Zuid Holland;NL
+GM1711;Echt-Susteren;VR23;Limburg-Noord;PV31;Limburg;NL
+GM1903;Eijsden-Margraten;VR24;Limburg-Zuid;PV31;Limburg;NL
+GM0907;Gennep;VR23;Limburg-Noord;PV31;Limburg;NL
+GM0512;Gorinchem;VR18;Zuid-Holland-Zuid;PV28;Zuid Holland;NL
+GM1729;Gulpen-Wittem;VR24;Limburg-Zuid;PV31;Limburg;NL
+GM0523;Hardinxveld-Giessendam;VR18;Zuid-Holland-Zuid;PV28;Zuid Holland;NL
+GM0917;Heerlen;VR24;Limburg-Zuid;PV31;Limburg;NL
+GM0531;Hendrik-Ido-Ambacht;VR18;Zuid-Holland-Zuid;PV28;Zuid Holland;NL
+GM1963;Hoeksche Waard;VR18;Zuid-Holland-Zuid;PV28;Zuid Holland;NL
+GM1507;Horst aan de Maas;VR23;Limburg-Noord;PV31;Limburg;NL
+GM0928;Kerkrade;VR24;Limburg-Zuid;PV31;Limburg;NL
+GM0882;Landgraaf;VR24;Limburg-Zuid;PV31;Limburg;NL
+GM1640;Leudal;VR23;Limburg-Noord;PV31;Limburg;NL
+GM1641;Maasgouw;VR23;Limburg-Noord;PV31;Limburg;NL
+GM0935;Maastricht;VR24;Limburg-Zuid;PV31;Limburg;NL
+GM0938;Meerssen;VR24;Limburg-Zuid;PV31;Limburg;NL
+GM1978;Molenlanden;VR18;Zuid-Holland-Zuid;PV28;Zuid Holland;NL
+GM0944;Mook en Middelaar;VR23;Limburg-Noord;PV31;Limburg;NL
+GM0946;Nederweert;VR23;Limburg-Noord;PV31;Limburg;NL
+GM0590;Papendrecht;VR18;Zuid-Holland-Zuid;PV28;Zuid Holland;NL
+GM1894;Peel en Maas;VR23;Limburg-Noord;PV31;Limburg;NL
+GM1669;Roerdalen;VR23;Limburg-Noord;PV31;Limburg;NL
+GM0957;Roermond;VR23;Limburg-Noord;PV31;Limburg;NL
+GM0965;Simpelveld;VR24;Limburg-Zuid;PV31;Limburg;NL
+GM1883;Sittard-Geleen;VR24;Limburg-Zuid;PV31;Limburg;NL
+GM0610;Sliedrecht;VR18;Zuid-Holland-Zuid;PV28;Zuid Holland;NL
+GM0971;Stein (L.);VR24;Limburg-Zuid;PV31;Limburg;NL
+GM0981;Vaals;VR24;Limburg-Zuid;PV31;Limburg;NL
+GM0994;Valkenburg aan de Geul;VR24;Limburg-Zuid;PV31;Limburg;NL
+GM0983;Venlo;VR23;Limburg-Noord;PV31;Limburg;NL
+GM0984;Venray;VR23;Limburg-Noord;PV31;Limburg;NL
+GM0986;Voerendaal;VR24;Limburg-Zuid;PV31;Limburg;NL
+GM0988;Weert;VR23;Limburg-Noord;PV31;Limburg;NL
+GM0642;Zwijndrecht;VR18;Zuid-Holland-Zuid;PV28;Zuid Holland;NL
